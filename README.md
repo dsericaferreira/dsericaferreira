@@ -12,9 +12,9 @@
   <img src="https://thumbs.gfycat.com/YellowReliableLabradorretriever-max-1mb.gif" align='center'>
 </p>
 
-<p align="align">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsericaferreira&theme=omni&show_icons=true" align='left'>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uqnoceedfxn63fw3bv3pluunyu&unique={true|1|on|yes}" align='right'>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsericaferreira&theme=omni&show_icons=true" align='center'>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uqnoceedfxn63fw3bv3pluunyu&unique={true|1|on|yes}" align='center'>
 </p>
   
 </p>
