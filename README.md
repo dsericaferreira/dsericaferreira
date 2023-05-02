@@ -24,7 +24,7 @@
 </p>
 
 
-<p align="center">Color palette that I LOVE using in my projects: </p>
+<h3 align="center">Color palette that I LOVE using in my projects:</h3>
 
  <p align="center">
  
